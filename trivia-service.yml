@@ -1,2 +1,5 @@
-  url:https://the-trivia-api.com/api/questions
-  environment:dev
+  audit-trail-service:
+    url: https://the-trivia-api.com/api/questions
+    environment: dev
+    another-property:
+      something: something
