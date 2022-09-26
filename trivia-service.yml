@@ -1,4 +1,4 @@
-  audit-trail-service:
+  trivia-service:
     url: https://the-trivia-api.com/api/questions
     environment: dev
     another-property:
