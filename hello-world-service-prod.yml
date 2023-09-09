@@ -1,2 +1,3 @@
 hello-world-service:
     greeting: Hello from PROD
+    environment: Production
